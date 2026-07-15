@@ -1,16 +1,25 @@
-## Hi there 👋
+# My Projects
 
-<!--
-**Anupriya2608/Anupriya2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository!
 
-Here are some ideas to get you started:
+This repository contains projects I have developed during my B.Tech journey. It includes academic, programming, and engineering projects as I continue learning and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repository Contents
+
+- ⚡ Electrical Projects
+- 💻 Java Projects
+- 📘 C Programming Projects
+- 🧩 Data Structures & Algorithms (DSA)
+- 🔬 Mini Projects
+- 📚 Academic Assignments
+
+## Technologies
+
+- Java
+- C
+- HTML/CSS (Future)
+- Git & GitHub
+- 
+  # About me
+  I am a B.Tech Information Technology student passionate about learning new technologies, solving problems, and building practical projects.
+Thank you for visiting my repository!
